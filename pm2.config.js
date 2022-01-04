@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name      : 'Calculator_app',
+    name      : 'calculatorApp',
     script    : 'server.js',
     node_args : '-r dotenv/config'
   }]
